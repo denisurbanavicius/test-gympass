@@ -1,0 +1,4 @@
+/build/
+/dist/
+/gympass.egg-info/
+*/__pycache__/

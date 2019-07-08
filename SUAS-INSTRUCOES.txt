@@ -1,0 +1,6 @@
+
+A partir da pasta do projeto, rode os comandos abaixo (só o comando do requirements já instala o projeto):
+
+pip install -r requirements.txt
+python gympass/run.py
+pytest
